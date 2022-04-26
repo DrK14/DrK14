@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr.K
+- 👋 Hi, Nightcrawler
 - 👀 I’m interested in Balisong, Coding, Games
 - 🌱 I’m currently learning how to create commands for my bot in Discord
 
